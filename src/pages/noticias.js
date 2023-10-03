@@ -14,7 +14,7 @@ function Noticias() {
     <div className="bg-gray-100 p-4">
       <div className="flex justify-between items-center mb-4">
         <h1 className="text-2xl font-semibold">Notícias sobre TEV</h1>
-        <Link href="/" className="mr-40"> {/* Defina a rota correta aqui */}
+        <Link href="/dashboard" className="mr-40"> {/* Defina a rota correta aqui */}
           <p className="text-blue-500 hover:underline text-lg">Home</p>
         </Link>
       </div>
